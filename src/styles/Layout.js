@@ -11,5 +11,6 @@ export const Container = styled.div`
     text-align: center;
     @media (max-width: 768px) and (min-width: 320px) {
         position: inherit;
+        border: none;
     }
 `;

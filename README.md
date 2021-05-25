@@ -7,3 +7,4 @@
     `yarn install`
 4. To run the project locally do
     `yarn start`
+

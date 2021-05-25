@@ -5,7 +5,7 @@ export const Button = styled.button`
     width: 100%;
     border-radius: 3px;
     padding: 0.5rem 0;
-    background: green;
+    background: ${({theme}) => theme.BtnBg};;
     color: ${({theme}) => theme.ColorWhite};
     font-size: 1rem;
     border: 1px solid ${({theme}) => theme.Border};

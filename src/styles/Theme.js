@@ -4,7 +4,8 @@ const Theme = {
     Border: '#888',
     InputText: '#888',
     BaseBorderRadius: '5px',
-    Error: 'red'
+    Error: '#ff0000',
+    BtnBg: '#008000'
 }
 
 export default Theme;
